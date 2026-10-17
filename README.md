@@ -134,9 +134,6 @@ python code/evaluate_balanced_sota.py   # balanced accuracy on imbalanced test s
             Recognition: A Systematic Benchmark of Methods, Directions, and
             Task Difficulty},
   author = {Dao, Jiaxu and Li, Zhuoying},
-  journal= {Agriculture},
-  year   = {2026},
-  doi    = {10.3390/agriculture0000000}
 }
 ```
 
